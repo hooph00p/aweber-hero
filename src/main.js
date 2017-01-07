@@ -1,6 +1,6 @@
 /**
  * React Entry Point
- * More Info: https://github.com/hooph00p/react-bulma-template#readme
+ * More Info: https://github.com/hooph00p/aweber-hero#readme
  */
 import Bulma from '../node_modules/bulma/css/bulma.css';
 import React from 'react';
